@@ -9,5 +9,8 @@ TRUE IP5G Project
 - Deploying integration configuration and translate service migration from Cisco to Nokia by using automation tool.
 - Building network integration/migration/expansion/audit process improvement, communication plan and workflow process between Nokia and TRUE.
 
+** add 
+- Test add text
+- 
 **Domains**
 - IPRAN Northeast and East Region as RN, PN and DN which consists of XRS-20e (4), XRS-20 (12), SR12e (57), SR12 (249), SAR-H (275), and CPE SAS-M/Mxp/IXR-e (~9000).
